@@ -14,3 +14,11 @@
     color: #aaa;
     pointer-events: none;
 }
+
+.botao{
+    font-size: 35px;
+    text-decoration: none;
+    font-weight: bolder;
+    margin-right: 15px;
+    font-family: roboto;
+}
